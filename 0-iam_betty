@@ -1,0 +1,4 @@
+julien@ubuntu:/tmp/h$ tail -1 0-iam
+_betty | wc -c
+9
+julien@ubuntu:/tmp/h$
