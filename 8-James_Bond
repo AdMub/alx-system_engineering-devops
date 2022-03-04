@@ -1,0 +1,10 @@
+julien@ubuntu:/tmp/h$ ls -l
+total 8
+-rwxrw-r-- 1 julien julien 28 Sep 20 14:40 8-James_Bond
+-rwxr-x--x 1 julien julien 23 Sep 20 14:25 hello
+julien@ubuntu:/tmp/h$ ./8-James_Bond 
+julien@ubuntu:/tmp/h$ ls -l
+total 8
+-rwxrw-r-- 1 julien julien 28 Sep 20 14:40 8-James_Bond
+-------rwx 1 julien julien 23 Sep 20 14:25 hello
+julien@ubuntu:/tmp/h$ 
